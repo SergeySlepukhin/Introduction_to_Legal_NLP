@@ -1,1 +1,1 @@
-# Introduction_to_Legal_Analytics
+# Introduction_to_Legal_NLP
